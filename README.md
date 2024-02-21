@@ -138,3 +138,30 @@ Cast Shadow - 가려지는 부분 그림자 띄어줌
 quiexl brige  open close ( 다 만들어놈)
                  ㄴ 표면만 만들어놈
 
+---
+플레인에  풀 사진 넣어서 풀 넣기 가능. 빌보드( 플레이어 방향 회전으로 가라 가능)
+Sky Atmospeher  - 오존 농도 변경 
+ㄴGroundRadius _ 전체 크기  _ 유일하게 KM (나머지는 cm)
+ㄴ 디폴트값 지구크기
+
+ctrl+L  = 디렉션라이트 화면에서 수정
+
+cubeMap
+
+안개 - 공기원근법 _ ExponentialHeightFog 데이터 많이 잡아먹음 _공간감을 많이 줌
+Volumetric FOg _ 이걸 해야 진짜 FOG
+
+최적화 ㄱㄱ
+
+LightMass - 최적화 : 전체가 아닌 그럴싸 하게 보여줌(임의의 도화지, 텕스쳐)
+ㄴ 조건  _ 고정
+1) actro static
+2) ligth static 
+3) actor 도화지- > UV map   , 
+모든 액터는 UV 값이 있음 그걸 0 으로 하고 UV MAP을 1로 해서 중첩
+
+project setting Rendering glbol illuminatnion - Lumen off 가능 _ reflaction
+ㄴ ligth mass 후 light 지워도 유지됨 _ 대신 그림자도 유지
+ = Luman 이후로 잘 안씀
+
+포스트프로세스
