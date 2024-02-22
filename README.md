@@ -165,3 +165,50 @@ project setting Rendering glbol illuminatnion - Lumen off 가능 _ reflaction
  = Luman 이후로 잘 안씀
 
 포스트프로세스
+
+이펙트 _ 나이아가라
+ㄴ 스킬 이펙트 
+ㄴ 환경 이펙트
+ㄴ 카메라 이펙트 -> post process 
+
+이펙트 = Effect = particle system = VFX
+
+언리얼엔진은 나이아가라! - 이펙트를 만드는 시스템 
+언리얼 엔진 4는 캐스케이드, 5는 나이아가라
+
+effetct - 시관 괴물  , 러프 완벽 x
+
+장르 : 폭팔, 전기, 파편
+컨셉 : 불 , 물 , 전기, 독
+환경 : 먼지, 안개
+항상 크고 화려하게!
+
+모닥불 분석 - 운동성, 색, 생성범위, 외형
+
+나이아가라 시스템의 구성
+복수 Emitter의 관리
+	ㄴ particle
+
+나이아가리 시스템 = 관제탑
+Eimitter = 공장
+particle = 생산품
+
+spawn 생성 됐을때
+update  살아가는 동안
+Render 입자 
+
+각각 스테이지라고 부름 
+
+시간은 기본 초
+
+XYZ
+RGB
+
+Liner color Curve
+
+파티클은 애초에 작아서 이미지를 작게만듬 (100픽셀 넘기 힘듬)
+
+불은 blend mode additive 
+shading 은 빛 안밫게 ( 불 스스로 빛ㄹ으 냄)
+
+랜덤화시키쟈
