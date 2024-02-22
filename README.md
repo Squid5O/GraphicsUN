@@ -212,3 +212,9 @@ Liner color Curve
 shading 은 빛 안밫게 ( 불 스스로 빛ㄹ으 냄)
 
 랜덤화시키쟈
+
+포스트프로세스
+
+PostProcessVolume
+ㄴBloom
+ㄴChromatic Aberration
