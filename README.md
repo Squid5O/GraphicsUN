@@ -243,3 +243,15 @@ cotrol rig
 스켈레톤 내에서도 노드 사용
 
 컨트롤리그 수정 and 애니메이션 모드  -> export
+
+애니메이션 리타겟팅
+
+forward Knemtiac 포워드 키네마틱 < - > 인버스 키네마틱  동작 애니메이션 순서
+
+root bone 이 없을때 ㄴset root boon selected solver
+
+레벨 시퀸스 - 시네마틱 만들기
+
+CineCameraacotr 번개 모양  0 해당 카메라 샷에서만 스이는 스포너블 액터
+
+camera - > rail 자식만들기 _상속
