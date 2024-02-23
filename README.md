@@ -218,3 +218,28 @@ shading 은 빛 안밫게 ( 불 스스로 빛ㄹ으 냄)
 PostProcessVolume
 ㄴBloom
 ㄴChromatic Aberration
+
+
+---------------------------------
+
+02.23 
+
+애니메이션, 컷씬
+
+PostProcess  Manger?   = 렌더링 절차 _ Render Pipeline   - 디퍼드 방식 ( 지연 방식)
+
+포스트프로세스는 이미지를 하나하나 때서 조정할 수 있다. Z-Buffer 
+
+Compont Maks _ 특정 값만 삭제
+
+블랜더 쉐이프
+
+움직- > mesh
+ 
+vertex 모션ㅐㅂ
+
+cotrol rig
+
+스켈레톤 내에서도 노드 사용
+
+컨트롤리그 수정 and 애니메이션 모드  -> export
