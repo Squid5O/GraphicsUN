@@ -255,3 +255,13 @@ root bone 이 없을때 ㄴset root boon selected solver
 CineCameraacotr 번개 모양  0 해당 카메라 샷에서만 스이는 스포너블 액터
 
 camera - > rail 자식만들기 _상속
+
+---02.026 마지막수업
+
+위치 시퀸스
+
+VR 렌드스케이프 쓰면 에러 지림
+
+MESH _ 골목 ,동내 , 망르
+Landscape _ 창동, 도봉구
+open world) 시, 도
